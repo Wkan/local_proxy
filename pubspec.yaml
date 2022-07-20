@@ -1,7 +1,7 @@
 name: local_proxy
 description: A Flutter plugin to get system proxy settings
-version: 0.0.1
-homepage: https://github.com/Wkan/local_proxy.git
+version: 0.0.2
+homepage: https://github.com/Wkan/local_proxy
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
